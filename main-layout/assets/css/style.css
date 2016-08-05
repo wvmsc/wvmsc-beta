@@ -481,7 +481,7 @@ p {
 
 .hero-section .btn{
     margin-bottom: 0;
-} 
+}
 
 /*------------------------------------------*/
 /*	 Buttons Color
@@ -883,6 +883,14 @@ p {
     bottom: 0;
     left: 0;
     background: #b0babf;
+}
+
+.img-left{
+    left:0;
+    background: url(../images/img-left.jpg) 50% 0 no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
 }
 
 .img-right {
